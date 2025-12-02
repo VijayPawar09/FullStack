@@ -1,0 +1,1 @@
+This is the first text for readFileSync and it also used for the writeFileSync
